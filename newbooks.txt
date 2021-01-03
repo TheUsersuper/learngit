@@ -33,5 +33,4 @@
  不打紧，我还是我，我会用各种策略去达到我的目的，无论对错
  阿斯加德哈可接受的哈哈是第六届啊
  Creating a new branch is quick.
- Creating a new branch is quick AND simple.
- Creating a new branch is quick & simple.
+Creating a new branch is quick and simple
